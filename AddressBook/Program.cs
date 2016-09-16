@@ -1,9 +1,8 @@
-﻿using System;
-using Microsoft.AspNetCore.Hosting;
-using System.IO;
-
-namespace AddressBook
+﻿namespace AddressBook
 {
+     using Microsoft.AspNetCore.Hosting;
+     using System.IO;
+
     public class Program
     {
         public static void Main(string[] args)
